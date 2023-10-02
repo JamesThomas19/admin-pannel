@@ -1,0 +1,21 @@
+.NavbarConatainner{
+    width: 100%;
+    padding: 20px 20px;
+    background-color: #1D224C;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logoContainner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+}
+.adContainner{
+    font-size: 25px;
+}

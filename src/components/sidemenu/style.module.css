@@ -1,0 +1,22 @@
+.navLinkConatainner{
+    min-width: 14rem;
+    background-color: #1D224C;
+    list-style: none;
+    height: 89vh;
+}
+.navLinkConatainner a {
+    text-decoration: none;
+    padding: 20px 15px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+}
+.logoContainner{
+    width: 20px;
+}
+.mainContainner{
+    display: flex;
+    align-items: center;
+}
